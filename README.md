@@ -35,8 +35,8 @@ Compilation of web and CLI tools that I use to perform research and OSINT proces
 
 # Search Engine OSINT
 
-- `Gestores de motores de búsqueda`
-	- **Motores de búsqueda**
+- `Search engine managers`
+	- **Search engine**
 		- [Google](https://www.google.com/)
 		- [DuckDuckGo](https://duckduckgo.com/)
 		- [Bing](https://www.bing.com/)
@@ -44,7 +44,7 @@ Compilation of web and CLI tools that I use to perform research and OSINT proces
 		- [Ahmia](https://ahmia.fi)
 		- [Torch](http://xmh57jrzrnw6insl.onion/)
 		- [Not evil](http://hss3uro2hsxfogfq.onion/)
-	- **Navegadores**
+	- **Browsers**
 		- [Tor](https://www.torproject.org/es/download/)
 		- [Mullvad](https://mullvad.net/es/download/vpn/linux)
 		- [Brave](https://brave.com/)
